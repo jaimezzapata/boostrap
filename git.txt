@@ -7,6 +7,14 @@ git config --global user.name 'usuario de github'
 git config --global user.email 'correo de github'
     git config --global user.email zapataval2304@gmail.com
 
-
+Working Directory
 1 - git init (iniciando un repositorio vacío)
 2 - git add . (Se incluye todo el contenido del proyecto para el versionamiento)
+3 - git commit -m "Mensaje descriptivo"
+4 - git remote add origin url
+5 - git push -u origin master o main
+
+Staging Area
+1 - git add .
+2 - git commit -m ""
+3 - git push
