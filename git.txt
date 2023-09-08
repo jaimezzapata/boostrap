@@ -1,0 +1,12 @@
+Configuración de credenciales
+    correo de github
+    usuario de github
+
+git config --global user.name 'usuario de github'
+    git config --global user.name jaimezzapata
+git config --global user.email 'correo de github'
+    git config --global user.email zapataval2304@gmail.com
+
+
+1 - git init (iniciando un repositorio vacío)
+2 - git add . (Se incluye todo el contenido del proyecto para el versionamiento)

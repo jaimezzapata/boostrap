@@ -1,0 +1,5 @@
+Bootstrap 
+    Framework - Conjunto de herramientas diseñadas y creadas por alquien X que se utiliza para el bien común o implementacion general
+    Framework de CSS
+    Trabajo bajo clases o reglas de CSS ya definidas
+    getbootstrap.com
